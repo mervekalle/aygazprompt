@@ -1,0 +1,17 @@
+1.prompt
+Merhaba,öncelikle senden html dilinde bir web sitesi yapmanı istiyorum.
+Bu web sitesi kitap satışı için kullanılıcak.
+Bu web sitesini aşağıdaki unsurlara göre tasarlayabilirsin.
+
+1. Sitenin üstünde bir banner ve bannerın içinde, sol tarafta bir logo ve yanında "Kitapal.com" yazısı olacak, altında ise sırasıyla "Anasayfa", "Online Alışveriş", "Sepetim", "Hakkımızda", ve "İletişim" butonları bulunmalı.
+2. Banner rengi nar çiçeği, arkaplan ise şampanya rengi olacak
+3. Anasayfanın başlığı "Son 10 Yılın Çok Satan Kitapları" olacak.
+4. Alt tarafta ise çok satan 5 kitabın görselleri, isimleri ve açıklamaları yan yana olacak şekilde yerleştirilerecek
+5. Kitap görsellerinin eni 600px olacak, boyu ona göre orantılayabilirsin
+6. Kitapların isimleri sırasıyla şöyle: 1.şeker portakalı 2.küçük prens 3.hayvan çiftliği 4. 1984 5.bilinmeyen bir kadının mektubu
+7. Kitapları birer cümle ile açıklayıp, açıklama kısmına yazabilirsin.
+
+2.prompt
+
+Kitap görsellerinin boyutlarını width: 450px, height: auto olacak şekilde değiştirir misin?
+
